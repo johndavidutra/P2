@@ -18,7 +18,7 @@ int filter(int *a,int size,int (*method)(int))
 
 int even(int a)
 {
-	return !(a%2);
+	return !(a%2);//eu sou trouxa,a luana também
 }
 int odd(int a)
 {
